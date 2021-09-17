@@ -4,7 +4,7 @@
 ### <div align="center">I'm Ariouz, a Java developper since 2016 🚀</div>  
   
 
-- 🔭 I’m currently working on [Dashy Bot](https://github.com/Ariouz/DashyBot)  
+- 🔭 I’m currently working on [Dashy Bot](https://github.com/Ariouz/DashyBot) and [Pvp-Warcrft](https://pvp-warcraft.net)
   
 
 - ⚡ I also write code in few other languages and work as Sys.Admin  
