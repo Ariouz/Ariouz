@@ -4,7 +4,7 @@
 ### <div align="center">I'm Ariouz, a Java developper since 2016 🚀</div>  
   
 
-- 🔭 I’m currently working on [Dashy Bot](https://github.com/Ariouz/DashyBot) and [Scam Detector](https://github.com/Ariouz/ScamDetectorBot)
+- 🔭 I’m currently working on [Minebump](https://minebump.com)
   
 
 - ⚡ I also write code in few other languages and work as Sys.Admin  
