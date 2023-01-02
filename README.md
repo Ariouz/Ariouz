@@ -1,7 +1,7 @@
 ### Hi there 👋
   
 
-### <div align="center">I'm Ariouz, a Java developper since 2016 🚀</div>  
+### <div align="center">I'm Ariouz, a self-taught developper since 2016 🚀</div>  
   
 
 - 🔭 I’m currently working on [Minebump](https://minebump.com) and on [AngelSky](https://angelsky.fr)
