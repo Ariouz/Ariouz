@@ -5,7 +5,7 @@
   
 
 - 🔭 I’m currently working on [Minebump](https://minebump.com) and on [AngelSky](https://angelsky.fr)
-- I started a crypto project named [BumpCoin](https://bscscan.com/token/0xceBDBAc4D6b4E1BdE68aC0Df9a7C999a15c595AB)
+- I plan to study at [42 Nice](https://42nice.fr)
   
 
 - ⚡ I also write code in few other languages and work as Sys.Admin  
