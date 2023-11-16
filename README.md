@@ -4,11 +4,11 @@
 ### <div align="center">I'm Ariouz, a self-taught developper since 2016 🚀</div>  
   
 
-- 🔭 I’m currently on [AngelSky](https://angelsky.fr)
-- I study at [42 Nice](https://42nice.fr)
+- 🔭 Working on [AngelSky](https://angelsky.fr)
+- I studying at [42 Nice](https://42nice.fr)
   
 
-- ⚡ I also write code in few other languages and work as Sys.Admin  
+- ⚡ Enthousiastic code writter and problem solver
   
 
 <br/>  
