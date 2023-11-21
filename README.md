@@ -5,7 +5,7 @@
   
 
 - 🔭 Working on [AngelSky](https://angelsky.fr)
-- I studying at [42 Nice](https://42nice.fr)
+- Studying at [42 Nice](https://42nice.fr)
   
 
 - ⚡ Enthousiastic code writter and problem solver
