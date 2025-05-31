@@ -3,11 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariouz" alt="ariouz" /></a> </p>
 
-- 👨‍💻 All of my public projects are available on [github](https://github.com/Ariouz?tab=repositories)
+- 👨‍💻 All of my public projects are available [here](https://github.com/Ariouz?tab=repositories)
 
 - 📫 You can reach me on [linkedin](https://www.linkedin.com/in/virgil-calvez/)
 
-- ⚡ Fun fact **I'm looking for a 4-6 months SWE Internship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
