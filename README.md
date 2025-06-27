@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariouz" alt="ariouz" /></a> </p>
 
+- [GraalPy](https://github.com/oracle/graalpython) and [ITK](https://github.com/InsightSoftwareConsortium/ITK) contributor
+
 - 👨‍💻 All of my public projects are available [here](https://github.com/Ariouz?tab=repositories)
 
 - 📫 You can reach me on [linkedin](https://www.linkedin.com/in/virgil-calvez/)
